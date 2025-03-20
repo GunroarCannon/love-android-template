@@ -1,0 +1,4 @@
+@:expose
+enum NodeType{
+
+}
